@@ -1,0 +1,4 @@
+libzim>=3.4
+numpy>=1.24
+onnxruntime>=1.17
+tokenizers>=0.19
